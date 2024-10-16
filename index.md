@@ -64,13 +64,13 @@ layout: default
                         <div class="justify-center items-center" style="margin-left: 1.25rem;">
                             <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Vanillo</h4>
                             <p style="margin-bottom: 0.6rem;">Video made simple.</p>
-                            <div class="flex flex-row">
+                            <div class="flex flex-row sm-flex-column">
                                 <a href="https://vanillo.tv">
                                     <button>
                                         <img src="/img/icon/website.ico" class="icon" /> Website
                                     </button>
                                 </a>
-                                <a style="margin-left: 0.25rem;" href="https://twitter.com/vanillopr">
+                                <a class="button-margin" href="https://twitter.com/vanillopr">
                                     <button>
                                         <img src="/img/icon/twitter.png" class="icon" /> Twitter
                                     </button>
@@ -89,18 +89,18 @@ layout: default
                         <div class="justify-center items-center" style="margin-left: 1.25rem;">
                             <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Leagueopoly</h4>
                             <p style="margin-bottom: 0.6rem;">An esports league based on the Monopoly clone Richup.io. Players compete to earn points based on their per-game ranking. Top two in each conference advance!</p>
-                            <div class="flex flex-row">
+                            <div class="flex flex-row sm-flex-column">
                                 <a href="https://leagueopoly.com">
                                     <button>
                                         <img src="/img/icon/website.ico" class="icon" /> Website
                                     </button>
                                 </a>
-                                <a style="margin-left: 0.25rem;" href="https://twitter.com/leagueopoly">
+                                <a class="button-margin" href="https://twitter.com/leagueopoly">
                                     <button>
                                         <img src="/img/icon/twitter.png" class="icon" /> Twitter
                                     </button>
                                 </a>
-                                <a style="margin-left: 0.25rem;" href="https://instagram.com/leagueopoly">
+                                <a class="button-margin" href="https://instagram.com/leagueopoly">
                                     <button>
                                         <img src="/img/icon/instagram.png" class="icon" /> Instagram
                                     </button>
@@ -119,18 +119,18 @@ layout: default
                         <div class="justify-center items-center" style="margin-left: 1.25rem;">
                             <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Fools in a Barrel</h4>
                             <p style="margin-bottom: 0.6rem;">A group gaming YouTube channel in which five fools live in a barrel and do funny things</p>
-                            <div class="flex flex-row">
+                            <div class="flex flex-row sm-flex-column">
                                 <a href="https://youtube.com/@foolsinabarrel">
                                     <button>
                                         <img src="/img/icon/youtube.png" class="icon" /> YouTube
                                     </button>
                                 </a>
-                                <a style="margin-left: 0.25rem;" href="https://twitter.com/foolsinabarrel">
+                                <a class="button-margin" href="https://twitter.com/foolsinabarrel">
                                     <button>
                                         <img src="/img/icon/twitter.png" class="icon" /> Twitter
                                     </button>
                                 </a>
-                                <a style="margin-left: 0.25rem;" href="https://instagram.com/foolsinabarrel">
+                                <a class="button-margin" href="https://instagram.com/foolsinabarrel">
                                     <button>
                                         <img src="/img/icon/instagram.png" class="icon" /> Instagram
                                     </button>
