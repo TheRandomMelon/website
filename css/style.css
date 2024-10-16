@@ -1,0 +1,57 @@
+body {
+    background: rgb(218,226,95);
+    background: linear-gradient(180deg, rgba(218,226,95,1) 0%, rgba(54,125,16,1) 100%);
+    background-attachment: fixed;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    min-width: 700px;
+    padding: 0px 20px 0px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+}
+
+ul [role=menuitem] img {
+    left: 6px;
+}
+
+ul [role=menuitem]:has(img) {
+    padding-left: 26px !important;
+}
+
+[role=menuitem] ul[role=menu] {
+    z-index: 9000;
+}
+
+button .icon {
+    vertical-align: bottom;
+}
+
+[role=menuitem] {
+    cursor: pointer;
+}
