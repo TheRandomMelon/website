@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div class="flex flex-row justify-center items-center" style="margin-top: 1rem; width: 100%;">
+<div class="flex flex-row justify-center items-center" style="margin-top: 1rem; margin-bottom: 1rem; width: 100%;">
     <div class="window glass active" style="--window-background-color: #96B844; width: 100%;">
         <div class="title-bar">
             <div class="title-bar-text">About TheRandomMelon</div>
