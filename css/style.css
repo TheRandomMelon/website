@@ -31,6 +31,10 @@ body {
     flex-direction: column;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 @media screen and (max-width: 500px) {
     .sm-flex-column {
         flex-direction: column !important;
@@ -46,6 +50,11 @@ body {
 .icon {
     width: 16px;
     height: 16px;
+}
+
+.icon-lg {
+    width: 36px;
+    height: 36px;
 }
 
 ul [role=menuitem] img {

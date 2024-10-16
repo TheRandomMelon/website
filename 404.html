@@ -2,23 +2,33 @@
 layout: default
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="flex flex-row justify-center items-center" style="margin-top: 1rem; margin-bottom: 1rem; width: 100%;">
+	<div class="window glass active" style="--window-background-color: #96B844; width: 100%;">
+		<div class="title-bar">
+			<div class="title-bar-text">Error</div>
+			<div class="title-bar-controls">
+					<button aria-label="Minimize"></button>
+					<button aria-label="Maximize"></button>
+					<button aria-label="Close" onclick="window.location.href = '/';"></button>
+			</div>
+		</div>
+		<div class="window-body">
+			<div class="flex flex-row items-center" style="margin: 1rem;">
+				<img src="/img/icon/error.ico" class="icon-lg" style="margin-right: 1rem;" />
+				<div class="flex flex-column">
+					<p>
+						<span class="bold">Page not found</span><br/>
+						Sorry, this page could not be found. Please try the following:
+	
+						<ul>
+							<li>Check if the URL you're trying to reach is spelled correctly</li>
+							<li>Make sure you're on the right website (you're on therandommelon.com currently)</li>
+							<li>Check the top navigation bar to find the URL you're looking for</li>
+						</ul>
+					</p>
+					<button style="max-width: 75px;" onclick="window.location.href = '/';">OK</button>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
