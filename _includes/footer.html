@@ -1,14 +1,7 @@
----
-layout: default
-title: Contact
-description: Learn more about contacting Michael Webb (TheRandomMelon).
-permalink: /contact/
----
-
 <div class="flex flex-row justify-center items-center" style="margin-top: 1rem; margin-bottom: 1rem; width: 100%;">
     <div class="window glass active" style="--window-background-color: #96B844; width: 100%;">
         <div class="title-bar">
-            <div class="title-bar-text">Contact TheRandomMelon</div>
+            <div class="title-bar-text">Footer</div>
             <div class="title-bar-controls">
                 <button aria-label="Minimize"></button>
                 <button aria-label="Maximize"></button>
@@ -16,14 +9,20 @@ permalink: /contact/
             </div>
         </div>
         <div class="window-body">
-            <div class="flex flex-row items-center" style="margin: 1rem; margin-bottom: 0.25rem;">
+            <div class="flex flex-row items-center" style="margin: 1rem;">
                 <div class="items-center">
                     <p>
-                        The best way to contact me, especially regarding business or general inquiries, is via email. My email address is: 
+                        &copy; Michael Webb, <span id="year">XXXX</span> • Licensed under the <a href="https://github.com/TheRandomMelon/website/blob/master/LICENSE">Creative Commons Attribution Share Alike 4.0 International</a> • Windows 7 theming via <a href="https://khang-nd.github.io/7.css">7.css</a> • See website source code on <a href="https://github.com/TheRandomMelon/website">GitHub</a>
                     </p>
-                    <pre style="margin: 1rem 0.05rem;">michael [at] therandommelon [dot] com</pre>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+<script type="text/javascript">
+    const d = new Date();
+    let year = d.getFullYear();
+
+    document.getElementById('year').innerHTML = year;
+</script>

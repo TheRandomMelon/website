@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+description: Learn more about Michael Webb (TheRandomMelon) and all the things he does.
 permalink: /about/
 ---
 
