@@ -140,6 +140,26 @@ layout: default
                             </div>    
                         </div>
                     </div>
+                    <div class="flex flex-row items-center" style="margin-top: 1rem;">
+                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #ffc304;">
+                            <div class="title-bar">
+                            </div>
+                            <div class="window-body" style="height: 64px;">
+                                <img src="/img/projects/daydream.png" style="width: 64px; height: 64px;" />
+                            </div>
+                        </div>
+                        <div class="justify-center items-center" style="margin-left: 1.25rem;">
+                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Daydream Studio</h4>
+                            <p style="margin-bottom: 0.6rem;">A passionate game development group from around the U.S. that is creating games that we’ve been daydreaming about</p>
+                            <div class="flex flex-row sm-flex-column">
+                                <a href="https://daydreamstudio.cc">
+                                    <button>
+                                        <img src="/img/icon/website.ico" class="icon" /> Website
+                                    </button>
+                                </a>
+                            </div>    
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
