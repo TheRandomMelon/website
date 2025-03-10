@@ -124,6 +124,11 @@ permalink: /projects/
                                         <img src="/img/icon/website.ico" class="icon" /> Website
                                     </button>
                                 </a>
+                                <a class="button-margin" href="https://bsky.app/profile/daydreamstudio.cc">
+                                    <button>
+                                        <img src="/img/icon/bluesky.ico" class="icon" /> Bluesky
+                                    </button>
+                                </a>
                             </div>    
                         </div>
                     </div>
@@ -132,7 +137,7 @@ permalink: /projects/
                             <div class="title-bar">
                             </div>
                             <div class="window-body" style="height: 64px;">
-                                <img src="/img/projects/chromaforge.jpg" style="width: 64px; height: 64px;" />
+                                <img src="/img/projects/chromaforge.png" style="width: 64px; height: 64px;" />
                             </div>
                         </div>
                         <div class="justify-center items-center" style="margin-left: 1.25rem;">
@@ -147,6 +152,11 @@ permalink: /projects/
                                 <a class="button-margin" href="https://youtube.com/@chromaforgeband">
                                     <button>
                                         <img src="/img/icon/youtube.png" class="icon" /> YouTube
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://bsky.app/profile/chromaforge.bsky.social">
+                                    <button>
+                                        <img src="/img/icon/bluesky.ico" class="icon" /> Bluesky
                                     </button>
                                 </a>
                                 <a class="button-margin" href="https://twitter.com/chromaforgeband">

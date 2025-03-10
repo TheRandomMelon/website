@@ -56,25 +56,60 @@ layout: default
                         Below is a list of my most active projects currently. To see all of my projects, please see the <a href="/projects">projects</a> page.
                     </p>
                     <div class="flex flex-row items-center" style="margin-top: 1rem;">
-                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #eb9e5b;">
+                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #413269;">
                             <div class="title-bar">
                             </div>
                             <div class="window-body" style="height: 64px;">
-                                <img src="/img/projects/vanillo.png" style="width: 64px; height: 64px;" />
+                                <img src="/img/projects/chromaforge.png" style="width: 64px; height: 64px;" />
                             </div>
                         </div>
                         <div class="justify-center items-center" style="margin-left: 1.25rem;">
-                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Vanillo</h4>
-                            <p style="margin-bottom: 0.6rem;">Video made simple.</p>
+                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Chromaforge</h4>
+                            <p style="margin-bottom: 0.6rem;">Two musicians (myself and <a href="https://youtube.com/@tz_scion">tz_scion</a>) forging together to create all kinds of music with our combined talents.</p>
                             <div class="flex flex-row sm-flex-column">
-                                <a href="https://vanillo.tv">
+                                <a href="https://distrokid.com/hyperfollow/chromaforge/uncanny-valley">
+                                    <button>
+                                        <img src="/img/icon/music.ico" class="icon" /> Latest Release
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://youtube.com/@chromaforgeband">
+                                    <button>
+                                        <img src="/img/icon/youtube.png" class="icon" /> YouTube
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://bsky.app/profile/chromaforge.bsky.social">
+                                    <button>
+                                        <img src="/img/icon/bluesky.ico" class="icon" /> Bluesky
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://twitter.com/chromaforgeband">
+                                    <button>
+                                        <img src="/img/icon/twitter.png" class="icon" /> Twitter
+                                    </button>
+                                </a>
+                            </div>    
+                        </div>
+                    </div>
+                    <div class="flex flex-row items-center" style="margin-top: 1rem;">
+                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #ffc304;">
+                            <div class="title-bar">
+                            </div>
+                            <div class="window-body" style="height: 64px;">
+                                <img src="/img/projects/daydream.png" style="width: 64px; height: 64px;" />
+                            </div>
+                        </div>
+                        <div class="justify-center items-center" style="margin-left: 1.25rem;">
+                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Daydream Studio</h4>
+                            <p style="margin-bottom: 0.6rem;">A passionate game development group from around the U.S. that is creating games that we’ve been daydreaming about</p>
+                            <div class="flex flex-row sm-flex-column">
+                                <a href="https://daydreamstudio.cc">
                                     <button>
                                         <img src="/img/icon/website.ico" class="icon" /> Website
                                     </button>
                                 </a>
-                                <a class="button-margin" href="https://twitter.com/vanillopr">
+                                <a class="button-margin" href="https://bsky.app/profile/daydreamstudio.cc">
                                     <button>
-                                        <img src="/img/icon/twitter.png" class="icon" /> Twitter
+                                        <img src="/img/icon/bluesky.ico" class="icon" /> Bluesky
                                     </button>
                                 </a>
                             </div>    
@@ -141,20 +176,25 @@ layout: default
                         </div>
                     </div>
                     <div class="flex flex-row items-center" style="margin-top: 1rem;">
-                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #ffc304;">
+                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #eb9e5b;">
                             <div class="title-bar">
                             </div>
                             <div class="window-body" style="height: 64px;">
-                                <img src="/img/projects/daydream.png" style="width: 64px; height: 64px;" />
+                                <img src="/img/projects/vanillo.png" style="width: 64px; height: 64px;" />
                             </div>
                         </div>
                         <div class="justify-center items-center" style="margin-left: 1.25rem;">
-                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Daydream Studio</h4>
-                            <p style="margin-bottom: 0.6rem;">A passionate game development group from around the U.S. that is creating games that we’ve been daydreaming about</p>
+                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Vanillo</h4>
+                            <p style="margin-bottom: 0.6rem;">Video made simple.</p>
                             <div class="flex flex-row sm-flex-column">
-                                <a href="https://daydreamstudio.cc">
+                                <a href="https://vanillo.tv">
                                     <button>
                                         <img src="/img/icon/website.ico" class="icon" /> Website
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://twitter.com/vanillopr">
+                                    <button>
+                                        <img src="/img/icon/twitter.png" class="icon" /> Twitter
                                     </button>
                                 </a>
                             </div>    

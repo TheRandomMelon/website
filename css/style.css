@@ -1,3 +1,38 @@
+/* Custom font (for non-Windows systems) */
+@font-face {
+    font-family: "Selawik";
+    src: url("/font/selawk.woff2") format("woff2"),
+         url("/font/selawk.woff") format("woff"),
+         url("/font/selawk.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Bold */
+@font-face {
+    font-family: "Selawik";
+    src: url("/font/selawkb.woff2") format("woff2"),
+         url("/font/selawkb.woff") format("woff"),
+         url("/font/selawkb.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Semibold */
+@font-face {
+    font-family: "Selawik";
+    src: url("/font/selawksb.woff2") format("woff2"),
+         url("/font/selawksb.woff") format("woff"),
+         url("/font/selawksb.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Change font var */
+:root {
+    --font: 9pt "Segoe UI", "SegoeUI", "Selawik", "Noto Sans", sans-serif !important;
+}
+
 body {
     background: rgb(218,226,95);
     background: linear-gradient(180deg, rgba(218,226,95,1) 0%, rgba(54,125,16,1) 100%);
