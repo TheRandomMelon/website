@@ -49,6 +49,7 @@ Multiple accounts have already been set up for just that. I'd greatly appreciate
 - [TikTok](https://tiktok.com/@byteofmelon)
 - [Bluesky](https://bsky.app/profile/byteofmelon.com)
 - [Discord](https://discord.gg/eTBwhX9sQf)
+- [Vanillo](https://vanillo.tv/u/byteofmelon)
 - [Website](https://byteofmelon.com)
 
 P.S. A logo will be announced and then placed on these accounts shortly - stay tuned!
