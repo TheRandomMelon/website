@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body class="container">
+    {% include navbar.html %}
+    <div class="flex flex-row justify-center items-center" style="margin-top: 1rem; width: 100%;">
+        <div class="window glass active" style="--window-background-color: #96B844; width: 100%;">
+            <div class="title-bar">
+                <div class="title-bar-text">{{ page.title }}</div>
+                <div class="title-bar-controls">
+                    <button aria-label="Minimize"></button>
+                    <button aria-label="Maximize"></button>
+                    <button aria-label="Close"></button>
+                </div>
+            </div>
+            <div class="window-body">
+                <div class="flex flex-row items-center" style="margin: 1rem;">
+                    <div class="items-center">
+                        <div class="flex flex-row sm-flex-column items-center">
+                            <div class="window glass active sm-mb-post-preview" style="margin-top: 8px; max-width: calc(228px + 13px); --window-background-color: #96B844;">
+                                <div class="title-bar">
+                                </div>
+                                <div class="window-body" style="width: 228px; height: 128px;">
+                                    <img src="{{ page.image }}" style="width: 228px; height: 128px;" />
+                                </div>
+                            </div>
+                            <div class="flex flex-col" style="margin-left: 20px;">
+                                <h4 style="margin-bottom: 4px;">
+                                    {{ page.title }}
+                                </h4>
+                                <p style="margin-bottom: 4px;">
+                                    {{ page.description }}
+                                </p>
+                                <p>
+                                    Written by {{ page.author }} • Published on {{ page.date | date: "%B %d, %Y" }}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex flex-row justify-center items-center" style="margin-top: 1rem; width: 100%;">
+        <div class="window glass active" style="--window-background-color: #96B844; width: 100%;">
+            <div class="title-bar">
+                <div class="title-bar-text">Post content</div>
+                <div class="title-bar-controls">
+                    <button aria-label="Minimize"></button>
+                    <button aria-label="Maximize"></button>
+                    <button aria-label="Close"></button>
+                </div>
+            </div>
+            <div class="window-body">
+                <div class="flex flex-col blog-post-content" style="padding: 20px; line-height: 1.5;">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% include footer.html %}
+</body>
+
+</html>

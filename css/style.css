@@ -39,6 +39,11 @@ body {
     background-attachment: fixed;
 }
 
+h1, h2, h3, h4, h5 {
+    color: #56914F;
+    font-weight: normal;
+}
+
 .container {
     margin: 0 auto;
     max-width: 1200px;
@@ -52,6 +57,10 @@ body {
 
 .flex-row {
     flex-direction: row;
+}
+
+.flex-col {
+    flex-direction: column;
 }
 
 .justify-center {
@@ -73,6 +82,10 @@ body {
 @media screen and (max-width: 500px) {
     .sm-flex-column {
         flex-direction: column !important;
+    }
+
+    .sm-mb-post-preview {
+        margin-bottom: 10px;
     }
 }
 
@@ -110,4 +123,12 @@ button .icon {
 
 [role=menuitem] {
     cursor: pointer;
+}
+
+.blog-post-content h1:not(:first-child), .blog-post-content h2:not(:first-child), .blog-post-content h3:not(:first-child), .blog-post-content h4:not(:first-child), .blog-post-content h5:not(:first-child) {
+    margin-top: 10px;
+}
+
+.blog-post-content h1, .blog-post-content h2, .blog-post-content h3, .blog-post-content h4, .blog-post-content h5 {
+    margin-bottom: 10px;
 }
