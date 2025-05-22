@@ -20,9 +20,9 @@ permalink: /about/
                 <div class="items-center">
                     <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.5rem;">Summary</h4>
                     <p>
-                        Hi, my name is Michael Webb, and I sometimes go by TheRandomMelon or similar names online. I do various things online, such as:
+                        Hi, my name is Michael Webb, and I go by Byte of Melon, TheRandomMelon or similar names online. I do various things online, such as:
                         <ul>
-                            <li>Running multiple YouTube channels, such as my own and <a href="https://youtube.com/@foolsinabarrel">Fools in a Barrel</a></li>
+                            <li>Running multiple YouTube channels, such as <a href="https://youtube.com/@ByteOfMelon">my own channel, Byte of Melon</a> and <a href="https://youtube.com/@foolsinabarrel">Fools in a Barrel</a></li>
                             <li>Running an "e-sports league" called <a href="https://leagueopoly.com">Leagueopoly</a>, an esports league based on the Monopoly clone Richup.io. Players compete to earn points based on their per-game ranking. Top two in each conference advance!</li>
                             <li>Various <i>random</i> web design/programming endeavors (check out my GitHub <a href="https://github.com/therandommelon">here</a>).</li>
                             <li>Amateurish graphic design and video editing (see my video editing portfolio <a href="https://www.youtube.com/playlist?list=PLzQ6psXMqCdfiXw0IeGPJkMe_G7na6EZt">here</a>).</li>

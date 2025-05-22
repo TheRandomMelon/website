@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Home
-description: Michael Webb (TheRandomMelon)'s official site for all of the *random* things he does.
+description: The official site of Michael Webb, who runs Byte of Melon, a tech and video game analysis show with a slight focus on comedy; among other various projects.
 layout: default
 ---
 
@@ -22,9 +22,9 @@ layout: default
                 <div class="items-center">
                     <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.5rem;">About me</h4>
                     <p>
-                        Hi, my name is Michael Webb, and I sometimes go by TheRandomMelon or similar names online. I do various things online, such as:
+                        Hi, my name is Michael Webb, and I go by Byte of Melon, TheRandomMelon or similar names online. I do various things online, such as:
                         <ul>
-                            <li>Running multiple YouTube channels, such as my own and <a href="https://youtube.com/@foolsinabarrel">Fools in a Barrel</a></li>
+                            <li>Running multiple YouTube channels, such as <a href="https://youtube.com/@ByteOfMelon">my own channel, Byte of Melon</a> and <a href="https://youtube.com/@foolsinabarrel">Fools in a Barrel</a></li>
                             <li>Running an "e-sports league" called Leagueopoly</li>
                             <li>Various <i>random</i> web design/programming endeavors</li>
                             <li>Amateurish graphic design and video editing</li>
@@ -55,6 +55,41 @@ layout: default
                     <p>
                         Below is a list of my most active projects currently. To see all of my projects, please see the <a href="/projects">projects</a> page.
                     </p>
+                    <div class="flex flex-row items-center" style="margin-top: 1rem;">
+                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #91AF7E;">
+                            <div class="title-bar">
+                            </div>
+                            <div class="window-body" style="height: 64px;">
+                                <img src="/img/projects/bom.png" style="width: 64px; height: 64px;" />
+                            </div>
+                        </div>
+                        <div class="justify-center items-center" style="margin-left: 1.25rem;">
+                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Byte of Melon</h4>
+                            <p style="margin-bottom: 0.6rem;">A tech and video game analysis show with a slight focus on comedy, but also a deeper analysis of the topics that are covered in each episode</p>
+                            <div class="flex flex-row sm-flex-column">
+                                <a href="https://youtube.com/@byteofmelon">
+                                    <button>
+                                        <img src="/img/icon/youtube.png" class="icon" /> YouTube
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://bsky.app/profile/byteofmelon.com">
+                                    <button>
+                                        <img src="/img/icon/bluesky.ico" class="icon" /> Bluesky
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://twitter.com/byteofmelon">
+                                    <button>
+                                        <img src="/img/icon/twitter.png" class="icon" /> Twitter
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://instagram.com/byteofmelon">
+                                    <button>
+                                        <img src="/img/icon/instagram.png" class="icon" /> Instagram
+                                    </button>
+                                </a>
+                            </div>    
+                        </div>
+                    </div>
                     <div class="flex flex-row items-center" style="margin-top: 1rem;">
                         <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #413269;">
                             <div class="title-bar">

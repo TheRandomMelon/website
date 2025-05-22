@@ -20,7 +20,7 @@ permalink: /melonianbot/
                 <div class="items-center">
                     <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.5rem;">Summary</h4>
                     <p>
-                        MelonianBot is a custom-developed Twitch bot designed specifically for <a href="https://twitch.tv/therandommelon">my Twitch streams</a>. Here are its current and future planned features:
+                        MelonianBot is a custom-developed Twitch bot designed specifically for <a href="https://twitch.tv/byteofmelon">my Twitch streams</a>. Here are its current and future planned features:
                         <ul>
                             <li>Chatbot that can run various commands, such as more fun ones like !dice, and info commands like !discord</li>
                             <li>(Planned) Shoutout to people upon subscribing/renewing subscription/etc</li>

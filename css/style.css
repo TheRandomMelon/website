@@ -34,13 +34,13 @@
 }
 
 body {
-    background: rgb(218,226,95);
-    background: linear-gradient(180deg, rgba(218,226,95,1) 0%, rgba(54,125,16,1) 100%);
+    background: #91AF7E;
+    background: linear-gradient(180deg, #809D6D 0%, #91AF7E 55%, #57694A 100%);
     background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5 {
-    color: #56914F;
+    color: #809D6D;
     font-weight: normal;
 }
 

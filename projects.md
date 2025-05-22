@@ -23,6 +23,41 @@ permalink: /projects/
                         Below is a list of my projects, past and present.
                     </p>
                     <div class="flex flex-row items-center" style="margin-top: 1rem;">
+                        <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #91AF7E;">
+                            <div class="title-bar">
+                            </div>
+                            <div class="window-body" style="height: 64px;">
+                                <img src="/img/projects/bom.png" style="width: 64px; height: 64px;" />
+                            </div>
+                        </div>
+                        <div class="justify-center items-center" style="margin-left: 1.25rem;">
+                            <h4 style="font-size: 1.25rem; font-weight: 500; margin-bottom: 0.25rem;">Byte of Melon</h4>
+                            <p style="margin-bottom: 0.6rem;">A tech and video game analysis show with a slight focus on comedy, but also a deeper analysis of the topics that are covered in each episode</p>
+                            <div class="flex flex-row sm-flex-column">
+                                <a href="https://youtube.com/@byteofmelon">
+                                    <button>
+                                        <img src="/img/icon/youtube.png" class="icon" /> YouTube
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://bsky.app/profile/byteofmelon.com">
+                                    <button>
+                                        <img src="/img/icon/bluesky.ico" class="icon" /> Bluesky
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://twitter.com/byteofmelon">
+                                    <button>
+                                        <img src="/img/icon/twitter.png" class="icon" /> Twitter
+                                    </button>
+                                </a>
+                                <a class="button-margin" href="https://instagram.com/byteofmelon">
+                                    <button>
+                                        <img src="/img/icon/instagram.png" class="icon" /> Instagram
+                                    </button>
+                                </a>
+                            </div>    
+                        </div>
+                    </div>
+                    <div class="flex flex-row items-center" style="margin-top: 1rem;">
                         <div class="window glass active" style="max-width: calc(64px + 13px); --window-background-color: #eb9e5b;">
                             <div class="title-bar">
                             </div>
