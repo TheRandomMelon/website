@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: Learn more about Michael Webb (TheRandomMelon) and all the things he does.
+description: Learn more about Michael Webb (Byte of Melon) and all the things he does.
 permalink: /about/
 ---
 

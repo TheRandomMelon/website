@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TheRandomMelon
-email: michael@therandommelon.com
+title: Byte of Melon
+email: michael@byteofmelon.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Michael Webb (TheRandomMelon)'s official site for all of the random things he does.
+  The official site of Michael Webb, who runs Byte of Melon, a tech and video game analysis show with a slight focus on comedy; among other various projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: michaelwebbtrm
+twitter_username: byteofmelon
 github_username:  therandommelon
 permalink: /blog/:year/:title
 

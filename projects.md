@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-description: Learn more about Michael Webb (TheRandomMelon)'s projects and where you can find them online.
+description: Learn more about Michael Webb (Byte of Melon)'s projects and where you can find them online.
 permalink: /projects/
 ---
 
