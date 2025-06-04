@@ -39,6 +39,11 @@ permalink: /projects/
                                         <img src="/img/icon/youtube.png" class="icon" /> YouTube
                                     </button>
                                 </a>
+                                <a href="https://vanillo.tv/u/byteofmelon">
+                                    <button>
+                                        <img src="/img/icon/vanillo.png" class="icon" /> Vanillo
+                                    </button>
+                                </a>
                                 <a class="button-margin" href="https://bsky.app/profile/byteofmelon.com">
                                     <button>
                                         <img src="/img/icon/bluesky.ico" class="icon" /> Bluesky
